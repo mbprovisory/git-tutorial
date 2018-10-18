@@ -1,1 +1,2 @@
 My Text
+This is a second line in the text;
